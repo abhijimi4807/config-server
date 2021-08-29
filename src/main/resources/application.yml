@@ -9,3 +9,4 @@ spring :
         git:
           uri: https://github.com/abhijimi4807/config-server-properties.git
           clone-on-start: true
+          default-label: main
